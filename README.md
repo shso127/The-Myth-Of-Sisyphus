@@ -1,10 +1,10 @@
 # NLP to The Myth Of Sisyphus
 ## Contents
-* [Description](description)
-* [Requirement](Requirement)
-* [Program Review](Program-Review)
-* [References](References)
-* [License](License)
+* [Description](#description)
+* [Requirement](#requirement)
+* [Program Review](#program-review)
+* [References](#references)
+* [License](#license)
 ## Description
 <img src="https://user-images.githubusercontent.com/102570051/206861980-acb86721-b425-4186-a7c6-453e72e8c941.png" width="300" height="300"><br>
 [시지프 신화](https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%A7%80%ED%94%84_%EC%8B%A0%ED%99%94)<br><br>
@@ -48,8 +48,11 @@
 <img src="https://user-images.githubusercontent.com/102570051/206863866-846708f7-f6b4-4289-b532-11ee430027e8.png" width="450" height="300"><br>
 * 워드클라우드를 이용한 시각화<br><br>
 
-<div style="text-align: left"> 제가 읽으며 몇 문장으로 이 책 내용을 요약하자면<br>  
-> "우리 모두는 시지프스와 같은 삶을 사는 인간들이다. 삶에 부조리를 느끼더라도 자살이나 신, 혹은 소망과 같은 것으로 도약하지 말고 저항하며 삶의 가능성을 모두 맛보아라!"</div>
+<div style="text-align: left"> 제가 읽으며 몇 문장으로 이 책 내용을 요약하자면</div><br>
+
+> 우리 모두는 시지프스와 같은 삶을 사는 인간들이다. 삶에 부조리를 느끼더라도 자살이나 신, 혹은 소망과 같은 것으로 도약하지 말고 저항하며 삶의 가능성을 모두 맛보아라!
+<br>
+라고 요약할 수 있을 것 같습니다. 이는 WordCloud에서 보여주는 단어들이 제가 정리한 주제이긴 하지만 매우 그럴듯하게 책의 내용을 나타 내는 것을 알 수 있습니다. 또한 이러한 단어들에 집중하여 책을 읽으면 이해에 도움이 될 것 같습니다.
 
 ## References
 * book : 파이썬 머신러닝 완벽 가이드(http://www.yes24.com/Product/Goods/108824557)<br>
